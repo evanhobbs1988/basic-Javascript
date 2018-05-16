@@ -1,0 +1,44 @@
+#element { margin:0; padding:0; font-size:100%; line-height:1; }
+*{
+ margin: 10px;
+ padding: 10px;
+ background-color: rgb(33, 33, 129);
+}
+
+body{
+    color: gainsboro ;
+    
+    font-size: 12px;
+    font-family: "Times New Roman", Times, serif ;
+
+
+}
+
+#header{
+ height: 50px;
+ background-color: rgb(128, 0, 0);
+    margin: 10px;
+ padding: 10px;
+ border-radius: 25px;
+}
+#navigation{
+ height: 300px;
+ width: 150px;
+ background-color: rgb(48, 139, 199);
+ margin: 10px;
+ padding: 10px;
+ position: relative;
+ border-radius: 25px;
+}
+#main_content{
+ height: 500px;
+ width: 700px;
+ background-color: rgb(19, 12, 41);
+position: relative;
+border-radius: 25px;
+}
+#footer{
+    height: 50px;
+    background-color: rgb(119, 119, 145);
+    border-radius: 25px;
+}
